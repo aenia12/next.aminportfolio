@@ -1,16 +1,17 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <strong className="header">Portfolio</strong>
         <p>
           My name is Aenia Amin, and I am a junior front-end developer based in
-          the United States. I use VS Code, GitHub, and Netlify, and am
-          PC-based. I know these technologies: JavaScript, React.js, Bootstrap,
-          and Responsive development.
+          the United States. I use VS Code, GitHub, and Netlify, and use PC
+          products, primarily laptop and Android mobile device. I know these
+          technologies: JavaScript, React.js, Bootstrap, and Responsive
+          development. I enjoy spending time learning, playing with my cats, and
+          enjoying good food and books.
         </p>
         <a
           className="App-link"
@@ -22,7 +23,7 @@ function App() {
         </a>
         <a
           className="Resume-link"
-          href="https://www.linkedin.com/in/aenia-amin-66b45684/"
+          href="https://www.dropbox.com/scl/fi/4m14npp1mq9360ws75muf/Aenia-Amin-SheCodes-Developer-Resume.pdf?rlkey=a0pns12mzrh0i09gzdnphitlt&st=ny7w9vpb&dl=0S"
           target="_blank"
           rel="noopener noreferrer"
         >

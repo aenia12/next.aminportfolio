@@ -29,11 +29,16 @@
 }
 
 .Contact-link {
-color: purple
+color: lavender
+}
+
+.header {
+  font-size: 90px;
+  color: lightsalmon;
 }
 
 .Project-link {
-color: blueviolet
+color: teal
 }
 
 .Resume-link {

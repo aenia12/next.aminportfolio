@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.Contact-link {
+color: purple
+}
+
+.Project-link {
+color: blueviolet
+}
+
+.Resume-link {
+  color: goldenrod
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
